@@ -12,7 +12,7 @@ Seja bem-vindo(a)!
 
 - 👯 Colaboro em um projeto de ensino da linguagem Kotlin de nome [KotlinLearner]
 
-- 🤝 Vamos conversar sobre Tecnologia e Programação [Pode encontrar aqui](https://mastrantonio.com.br/)
+- 🤝 Vamos conversar sobre Tecnologia e Programação [Converse Aqui!](https://mastrantonio.com.br/)
 
 - 📫 Como entrar em contato comigo por e-mail **contato@mastrantonio.com.br**
 
@@ -68,8 +68,8 @@ Seja bem-vindo(a)!
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/giovane-mastrantonio-ti" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /> </a>
-
+  <a href="https://www.linkedin.com/in/giovane-mastrantonio-ti" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  /></a>
+ <img width="12" />
 <a href="https://mastrantonio.com.br" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/static/v1?message=Site&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="site logo"  /> </a>
 
