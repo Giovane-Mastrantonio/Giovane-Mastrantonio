@@ -1,5 +1,5 @@
 # Giovane-Mastrantonio
-Seja bem-vindo(a)! Este é o meu perfil em construção
+Seja bem-vindo(a)!
 
 
 <h1 align="center">Olá! 👋, Eu sou o Giovane</h1>
