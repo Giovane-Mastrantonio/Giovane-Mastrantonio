@@ -5,7 +5,8 @@
 <h1 align="center">Olá! 👋, Eu sou o Giovane</h1>
 <h2 align="center">Sou apaixonado por tecnologia e agora me aprofundando em Python</h2>
 
-<h3>
+<h4>
+
 - 🔭 Desenvolvo aplicativos para celular [MemoryGame, QuizApp, MeuCarro-App]
 
 - 🌱 Atualmente estou aprendendo Python nos tópicos de **Estruturas de repetição, controle de Strings, ...**
@@ -17,8 +18,9 @@
 - 📫 Como entrar em contato comigo por e-mail **contato@mastrantonio.com.br**
 
 - ⚡ Fato curioso é que possuo **Certificado de Linguagem BASIC I de 1986**
-</h3>
-###
+
+</h4>
+
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="70" alt="python logo"  />
