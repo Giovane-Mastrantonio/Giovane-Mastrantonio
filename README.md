@@ -1,5 +1,5 @@
 # Giovane-Mastrantonio
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+muito+bem-vindo(a)!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Seja+muito+bem-vindo(a)!)](https://github.com/Giovane-Mastrantonio)
 
 
 <h1 align="center">Olá! 👋, Eu sou o Giovane</h1>
