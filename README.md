@@ -5,7 +5,7 @@
 <h1 align="center">Olá! 👋, Eu sou o Giovane</h1>
 <h2 align="center">Sou apaixonado por tecnologia e agora me aprofundando em Python</h2>
 
-<h4>
+<h3>
 
 - 🔭 Desenvolvo aplicativos para celular [MemoryGame, QuizApp, MeuCarro-App]
 
@@ -19,7 +19,7 @@
 
 - ⚡ Fato curioso é que possuo **Certificado de Linguagem BASIC I de 1986**
 
-</h4>
+</h3>
 
 
 <div align="center">
