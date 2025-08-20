@@ -9,7 +9,7 @@
 
 - 🔭 Desenvolvo aplicativos para celular [MemoryGame, QuizApp, MeuCarro-App]
 
-- 🌱 Atualmente estou aprendendo Python nos tópicos de **Estruturas de repetição, controle de Strings, ...**
+- 🌱 O que já aprendi e treino em Python: **Estruturas de repetição e controle de fluxo, controle de Strings, Tuplas, Listas, Dicionários, Estruturas de dados compostas, Funções personalizadas e reutilização de código, Módulos e pacotes em Python, Conversão de bases numéricas, Estruturas condicionais avançadas, Operadores matemáticos e lógicos aplicados ...**
 
 - 👯 Colaboro em um projeto de ensino da linguagem Kotlin de nome [KotlinLearner]
 
